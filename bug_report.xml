@@ -6,10 +6,10 @@
         3. Open the App page in the App Store
         4. Pay attention to the app version."
 </Steps>
-<A.R.>"Version in the App V2.1.2  
+<AR>"Version in the App V2.1.2  
        Version in the App Store V1.0.2"
-</A.R.>
-<E.R.>Version in the app matches the version in the App Store</E.R.>
+</AR>
+<ER>Version in the app matches the version in the App Store</ER>
 <Attachment>Link</Attachment>
 <Severity>Major</Severity>
 <Priority>Medium</Priority>
