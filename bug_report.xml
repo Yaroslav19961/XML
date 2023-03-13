@@ -1,1 +1,21 @@
-
+<ID>1</ID>
+<Title>Version in the app does not match version in the App Store</Title>
+<Precondition>Application is installed</Precondition>
+<Steps>"1. Launch app
+        2. Pay attention to the app version
+        3. Open the App page in the App Store
+        4. Pay attention to the app version."
+</Steps>
+<A.R.>"Version in the App V2.1.2  
+       Version in the App Store V1.0.2"
+</A.R.>
+<E.R.>Version in the app matches the version in the App Store</E.R.>
+<Attachment>Link</Attachment>
+<Severity>Major</Severity>
+<Priority>Medium</Priority>
+<Status>Open</Status>
+<Author>@yKovalevy</Author>
+<Enviroment>
+    <Device>"Xiaomi redmi note 10 pro"</Device>    
+    <OC>"Android 12SKQ1.210908. 001"</OC>
+</Enviroment>
