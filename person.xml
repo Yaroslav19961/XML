@@ -1,0 +1,15 @@
+<info>
+ <First_name>Yaroslav</First_name>
+ <Last_name>Kovalev</Last_name>
+ <Age>26</Age>
+ <Devices>
+	 <Mobile>
+		 <Device_1>iPhone_6s</Device_1>
+		 <Device_2>Xiaomi_redmi_note_10_pro</Device_2>
+		 <Device_3>iPhone_11</Device_3>
+	 </Mobile>
+	 <Laptop>
+		 <Device_1>ASUS_ZenBook_14_AMD_Ryzen_5_3500U_8GB_RAM</Device_1>
+	 </Laptop>
+ </Devices>	 
+</info>
